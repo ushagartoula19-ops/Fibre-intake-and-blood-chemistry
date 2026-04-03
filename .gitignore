@@ -6,3 +6,4 @@ data/
 
 # Ignore Jupyter auto-saves
 .ipynb_checkpoints/
+.DS_Store
