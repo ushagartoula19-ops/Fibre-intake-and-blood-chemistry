@@ -44,3 +44,7 @@ NHANES datasets used:
 
 ## 👩‍💻 Author
 Usha Gartoula
+=======
+# Fibre-intake-and-blood-chemistry
+NHANES database is used to determine the effect of fibreintake in blood glucose and lipid profiles.
+>>>>>>> 3a71b526206bd7db59d5ff4e91194dc96a81860a

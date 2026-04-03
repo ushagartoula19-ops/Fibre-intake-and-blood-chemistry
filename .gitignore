@@ -1,0 +1,8 @@
+# Ignore data folder (all NHANES files)
+data/
+
+# Ignore all .xpt files (in case any are outside data/)
+*.xpt
+
+# Ignore Jupyter auto-saves
+.ipynb_checkpoints/
