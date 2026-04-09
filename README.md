@@ -71,12 +71,13 @@ NHANES datasets used:
 - [x] Data loading and merging
 - [x] Variable selection and renaming
 - [x] Outlier detection and removal
-- [x] Missing data diagnosis (MAR/MCAR)
 - [x] KNN imputation and validation
-- [ ] Exploratory data analysis
-- [ ] Statistical modeling
+- [x] Exploratory data analysis
+- [x] Distribution plots and correlation heatmap
+- [x] Gender stratified analysis with t-tests
+- [x] Age stratified analysis with ANOVA
+- [ ] Regression modeling
 - [ ] Visualization and reporting
-
 ## 🔜 Next Steps
 - Exploratory data analysis (EDA)
 - Distribution plots and correlation heatmaps
